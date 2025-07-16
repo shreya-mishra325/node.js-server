@@ -7,7 +7,7 @@ A basic weather backend built using vanilla Node.js — a lightweight weather AP
 
 ⚙ Built With
 
-•	Node.js core modules: http, https, url
+•	Node.js core modules: (http, https, url)
 
 •	OpenWeatherMap API for weather data
 
@@ -33,5 +33,6 @@ Returns only the required weather details:
 • Wind Speed (in m/s)
 
 in JSON format 
+
 
 Handles invalid cities, missing parameters, and API failures gracefully so that users get helpful messages if something goes wrong.
