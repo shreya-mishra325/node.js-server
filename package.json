@@ -1,0 +1,22 @@
+{
+  "name": "node.js-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreya-mishra325/node.js-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreya-mishra325/node.js-server/issues"
+  },
+  "homepage": "https://github.com/shreya-mishra325/node.js-server#readme",
+  "description": "",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
