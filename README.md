@@ -23,9 +23,13 @@ Accepts GET requests at /weather?city=CityName
 Returns only the required weather details:
 
 • City Name
+
 • Temperature (in °C)
+
 • Weather Description
+
 • Humidity (in %)
+
 • Wind Speed (in m/s)
 
 in JSON format 
